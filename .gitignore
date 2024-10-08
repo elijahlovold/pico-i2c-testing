@@ -1,0 +1,14 @@
+.pio
+.vscode/
+.cache/
+
+*.ini
+*.exe
+
+.cache/
+
+test.*
+test/
+lib/
+build/
+
